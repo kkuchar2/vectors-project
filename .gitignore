@@ -1,0 +1,16 @@
+# Rider files
+.idea/
+*.sln.iml
+*.csproj.user
+*.csproj.DotSettings
+Vectors.sln.DotSettings.user
+# Build results
+bin/
+obj/
+
+# Test results
+TestResults/
+
+# Ignore packages folder for NuGet
+packages/
+*.nupkg
